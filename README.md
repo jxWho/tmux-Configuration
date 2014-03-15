@@ -3,4 +3,4 @@ tmux-Configuration
 
 configuration files of tmux
 
-![Preview of this configuration](http://github.com/jxWho/tmux-Configuration/preview.png)
+![Preview of this configuration](https://github.com/jxWho/tmux-Configuration/blob/master/preview.png)
