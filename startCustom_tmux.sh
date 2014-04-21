@@ -22,15 +22,12 @@ if [ -z $cmd ]; then
 
             $cmd split-window -h -p 50
 
-            $cmd split-window -v -p 35
-
-            $cmd split-window -v
+            $cmd split-window -v -p 50
 
             $cmd select-pane -t 0
 
-            $cmd split-window -v
+            $cmd split-window -v -p 50
 
-            $cmd select-pane -t 0
 
 #            $cmd select-pane -t 0
 
